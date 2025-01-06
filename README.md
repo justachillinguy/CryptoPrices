@@ -24,7 +24,7 @@ Click the button above to invite CryptoPrices to your Discord server and start t
 ## Support My Work ❤️
 [![Buy Me a Ko-fi](https://img.shields.io/badge/Buy%20Me%20a%20Ko--fi-00C4CC?style=for-the-badge&logo=ko-fi)](https://ko-fi.com/justachillguy)  
 
-If you appreciate the service and want to support it's development, please consider to support my work. Thanks in advance 😁 
+If you appreciate the service and want to support it's development, please consider to support my work. Thank you ⭐
 
 ---
 
