@@ -17,7 +17,7 @@ For more details, visit our [website](https://cryptoprices-bot.web.app).
 ## Invite CryptoPrices to your server 🚀
 [![Invite](https://img.shields.io/badge/Invite%20Me-7289DA?style=for-the-badge&logo=discord)](https://discord.com/oauth2/authorize?client_id=1323386563316678738)  
 
-Click the button above to invite CryptoPrices to your Discord server and start tracking cryptocurrency prices effortlessly!
+Click the button above to invite CryptoPrices to your Discord server and start tracking cryptocurrency prices with a simple `!help` command.
 
 ---
 
